@@ -4,7 +4,7 @@
 This project is an **AWS Lambda function written in F#** that processes quiz submissions. It accepts a **JSON payload** from an API request, transforms the data, and stores it in a **PostgreSQL database**.
 
 ## 🛠️ Tech Stack
-- **Language:** F# (.NET 6)
+- **Language:** F# (.NET 8)
 - **Cloud Services:** AWS Lambda, API Gateway, Amazon RDS (PostgreSQL)
 - **Database Driver:** `Npgsql`
 - **Serialization:** `System.Text.Json`
