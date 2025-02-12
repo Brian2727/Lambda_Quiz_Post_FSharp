@@ -39,7 +39,7 @@ This project is an **AWS Lambda function written in F#** that processes quiz sub
 ```
 ## 🏗️ Setting Up the Project
 ### **1️⃣ AWS Lambda Setup**
-1. Create a **new AWS Lambda function** with `.NET 6` runtime.
+1. Create a **new AWS Lambda function** with `.NET 8` runtime.
 2. Attach the necessary **IAM role permissions** for accessing **RDS PostgreSQL**.
 3. Set **environment variables** for database credentials:
    ```
